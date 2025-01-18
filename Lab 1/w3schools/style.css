@@ -1,0 +1,24 @@
+body {
+    /* background-color: burlywood; */
+    background-image: url('https://s.yimg.com/ny/api/res/1.2/SvhDhj4eE6UwJRG2MJu93A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xODAw/https://media.zenfs.com/en/insider_articles_922/c6ce8d0b9a7b28f9c2dee8171da98b8f');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+    /* background-image: url('https://s.yimg.com/ny/api/res/1.2/SvhDhj4eE6UwJRG2MJu93A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xODAw/https://media.zenfs.com/en/insider_articles_922/c6ce8d0b9a7b28f9c2dee8171da98b8f'); */
+  }
+  
+
+  .prikol {
+    margin-left: 200px;
+  }
