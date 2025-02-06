@@ -3,6 +3,7 @@
 
 body {
     background-color: rgb(221, 221, 221);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
@@ -39,8 +40,9 @@ section > .container h1 {
 }
 
 section .addable > input {
-    width: 300px;
+    width: 400px;
     border: none;
+    font-size: 18px;
     border-radius: 5px;
     padding: 10px 20px;
 }
@@ -48,9 +50,12 @@ section .addable > input {
 section .addable > button {
     color: white;
     border: none;
-    padding: 10px 20px;
+    padding: 11px 20px;
+    font-weight: 700;
+    font-size: 16px;
     background-color: rgb(0, 94, 255);
     border-radius: 5px;
+    cursor: pointer;
 }
 
 
