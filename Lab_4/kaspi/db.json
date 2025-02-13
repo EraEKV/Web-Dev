@@ -1,0 +1,32 @@
+{
+    "gpu": {
+        "1": {
+            "id": "117054530",
+            "name": "Видеокарта ASUS RTX 4070 Ti Super TUF Gaming OC 16 Гб",
+            "price": "577 807 ₸",
+            "rating": 5,
+            "description": "",
+            "gallery": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h2c/h4a/85304880791582.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h64/h1c/85304880857118.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/hc5/h9a/85304880922654.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hc0/h68/85304880988190.jpg?format=gallery-medium"
+            }
+        }
+    },
+    "smartphone": {
+        "1": {
+            "id": "123787551",
+            "name": "Смартфон Apple iPhone 16 Pro Max 256Gb черный",
+            "price": "662 441 ₸",
+            "rating": 5,
+            "description": "",
+            "gallery": {
+                "1": "https://resources.cdn-kaspi.kz/img/m/p/h2c/h4a/85304880791582.jpg?format=gallery-medium",
+                "2": "https://resources.cdn-kaspi.kz/img/m/p/h64/h1c/85304880857118.jpg?format=gallery-medium",
+                "3": "https://resources.cdn-kaspi.kz/img/m/p/hc5/h9a/85304880922654.jpg?format=gallery-medium",
+                "4": "https://resources.cdn-kaspi.kz/img/m/p/hc0/h68/85304880988190.jpg?format=gallery-medium"
+            }
+        }
+    }
+}
