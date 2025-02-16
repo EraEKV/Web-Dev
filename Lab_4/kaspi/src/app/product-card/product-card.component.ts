@@ -11,4 +11,9 @@ import { Product } from '../product';
 })
 export class ProductCardComponent {
   @Input() productCard!: Product;
+
+  getTelegramLink(): string {
+    const message = `Здравствуйте, интересует данный товар. У вас он имеется в наличии? \nhttps://kaspi.kz/shop/p/c-${this.productCard.id}`;
+    return `https://t.me/EraEKV?text=${encodeURIComponent(message)}`;
+  }
 }
