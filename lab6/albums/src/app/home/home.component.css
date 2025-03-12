@@ -3,15 +3,6 @@
   padding: 50px;
 }
 
-h1 {
-  font-size: 28px;
-  color: #333;
-}
-
-p {
-  font-size: 18px;
-  color: #666;
-}
 
 .buttons {
   margin-top: 20px;
@@ -35,6 +26,3 @@ p {
   transform: translateY(-5px);
   box-shadow: 0 6px 12px var(--shadow-color);
 }
-
-
-

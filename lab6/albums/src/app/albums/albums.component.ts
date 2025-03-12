@@ -10,8 +10,8 @@ import {Observable} from "rxjs";
 })
 export class AlbumsComponent {
   albums: Album[];
-  newAlbum: Album;
-  title: string;
+  newAlbum : Album;
+  title : string;
   constructor(private albumsService: AlbumsService) {
     this.albums = [];
     this.newAlbum = {} as Album;
@@ -28,7 +28,7 @@ export class AlbumsComponent {
     })
   }
 
-  deleteAlbum(id: number) {
+  deleteAlbum(id : number) {
     this.albumsService.deleteAlbums(id).subscribe((album) =>{
        this.albums.splice(id,1);
     })

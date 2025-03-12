@@ -22,8 +22,8 @@ export class AlbumDetailsComponent {
   }
 
   saveTitle(){
-    this.album.title = this.title;
-    this.title = '';
+     this.album.title = this.title;
+     this.title = '';
   }
 
   ngOnInit(): void {

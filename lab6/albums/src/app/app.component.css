@@ -2,8 +2,9 @@
     display: flex;
     justify-content: space-between; 
     align-items: center;
-    background-color: var(--primary-color, #4CAF50); 
+    background-color: var(--primary-color, #219ebc); 
     padding: 15px 20px;
+    height: 60px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
@@ -14,10 +15,6 @@
     color: white;
     gap: 10px;
     transition: transform 0.2s ease-in-out;
-}
-
-.brand-name .logo:hover {
-    transform: scale(1.05); 
 }
 
 .brand-name .logo svg {

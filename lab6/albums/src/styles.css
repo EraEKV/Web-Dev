@@ -6,12 +6,26 @@
 }
 
 body {
+    background-color: #edf6f9;
     font-family: 'Poppins', sans-serif;
 }
 
 :root {
-    --primary-color: #4e893f;
-    --secondary-color: #90cd7a;
+    --primary-color: #219ebc;
+    --secondary-color: #003566;
     --accent-color: #eafae7;
     --shadow-color: #E8E8E8;
+}
+
+input {
+    outline: none;
+    border: none;
+}
+
+li {
+    list-style: none;
+}
+
+button, a {
+    cursor: pointer;
 }

@@ -9,8 +9,8 @@ import {AlbumsService} from "../albums.service";
   styleUrls: ['./album-photos.component.css']
 })
 export class AlbumPhotosComponent {
-    photos: Photo[];
-    id: number;
+    photos : Photo[];
+    id : number;
     constructor(private route: ActivatedRoute,
                 private albumsService: AlbumsService) {
       this.photos = [];
